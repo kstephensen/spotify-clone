@@ -1,6 +1,6 @@
 "use client"
 
-import useAuthModal from "@/hooks/UseAuthModal";
+import useAuthModal from "@/hooks/useAuthModal";
 import useUploadModal from "@/hooks/useUploadModal";
 import { useUser } from "@/hooks/useUser";
 import { AiOutlinePlus } from "react-icons/ai";
